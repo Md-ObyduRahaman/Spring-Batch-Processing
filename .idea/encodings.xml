@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/Chunk-Oriented-Step-In-Action/Chunk-Oriented-Step-In-Action/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Create-Flat-File-Item-Writer-with-CSV-File/Create-Flat-File-Item-Writer-with-CSV-File/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/First-Spring-Batch-Job-with-Tasklet-Step/First-Spring-Batch-Job-with-Tasklet-Step/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Flat-File-Item-Reader-In-Action/Flat-File-Item-Reader-In-Action/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Job-Listener/Job-Listener/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Passing-Job-Parameters-with-REST-API/Passing-Job-Parameters-with-REST-API/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Running-Spring-Batch-with-MySQL/Running-Spring-Batch-with-MySQL/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Scheduling-Job-with-Spring-Scheduler/Scheduling-Job-with-Spring-Scheduler/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Second-Tasklet-Step/Second-Tasklet-Step/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Step-Listener/Step-Listener/src/main/java" charset="UTF-8" />
+  </component>
+</project>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/First-Spring-Batch-Job-with-Tasklet-Step/First-Spring-Batch-Job-with-Tasklet-Step/pom.xml" />
+        <option value="$PROJECT_DIR$/Second-Tasklet-Step/Second-Tasklet-Step/pom.xml" />
+        <option value="$PROJECT_DIR$/Running-Spring-Batch-with-MySQL/Running-Spring-Batch-with-MySQL/pom.xml" />
+        <option value="$PROJECT_DIR$/Job-Listener/Job-Listener/pom.xml" />
+        <option value="$PROJECT_DIR$/Step-Listener/Step-Listener/pom.xml" />
+        <option value="$PROJECT_DIR$/Chunk-Oriented-Step-In-Action/Chunk-Oriented-Step-In-Action/pom.xml" />
+        <option value="$PROJECT_DIR$/Passing-Job-Parameters-with-REST-API/Passing-Job-Parameters-with-REST-API/pom.xml" />
+        <option value="$PROJECT_DIR$/Scheduling-Job-with-Spring-Scheduler/Scheduling-Job-with-Spring-Scheduler/pom.xml" />
+        <option value="$PROJECT_DIR$/Create-Flat-File-Item-Writer-with-CSV-File/Create-Flat-File-Item-Writer-with-CSV-File/pom.xml" />
+        <option value="$PROJECT_DIR$/Flat-File-Item-Reader-In-Action/Flat-File-Item-Reader-In-Action/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_23" project-jdk-name="corretto-1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
